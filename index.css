@@ -7,6 +7,6 @@ body {
 }
 button {
     font-size : 2rem;
-    background-color: blueviolet;
-    animation: backwards
+    background-color: rgb(206, 77, 186);
+    animation: ease-in-out
 }
