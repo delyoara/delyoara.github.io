@@ -1,0 +1,12 @@
+h1{
+    font-family: Cambria;
+    color: green;
+}
+body {
+    background-color: rosybrown;
+}
+button {
+    font-size : 2rem;
+    background-color: blueviolet;
+    animation: backwards
+}
